@@ -7,6 +7,9 @@
 ## Section 2: Seq2Seq
 - [NLP FROM SCRATCH: TRANSLATION WITH A SEQUENCE TO SEQUENCE NETWORK AND ATTENTION](https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
 
+## Section 3: Transfomer
+- [nlp-with-transformers](https://github.com/nlp-with-transformers/notebooks)
+
 
 ## Loss Function
 - [Binary classification and logistic regression for beginners](https://towardsdatascience.com/binary-classification-and-logistic-regression-for-beginners-dd6213bf7162)
